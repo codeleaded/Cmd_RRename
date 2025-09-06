@@ -1,5 +1,6 @@
 #include "/home/codeleaded/System/Static/Library/GSprite.h"
 #include "/home/codeleaded/System/Static/Library/Sprite.h"
+#include "/home/codeleaded/System/Static/Library/String_G.h"
 
 #define SPRITE_PATH         "/home/codeleaded/Data/NN/Digits/"
 #define SPRITE_TARGET       "/home/codeleaded/Data/NN/DigitsGray/"
